@@ -1,2 +1,2 @@
 # MagentoCatalog
-Magento catalog test module
+Magento catalog test module, adding product
